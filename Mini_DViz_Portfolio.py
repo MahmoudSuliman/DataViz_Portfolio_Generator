@@ -8,7 +8,7 @@ author: MahmoudSuliman
 # Importing libraries
 
 import os
-os.chdir(r'C:\Users\KIDDO\Downloads\SU Study\Project Mitsuru\Online Profiles\LinkedIn Posts\Visualization examples')
+os.chdir(r'working directory')
 import matplotlib.image as img
 import matplotlib.pyplot as plt
 from matplotlib.offsetbox import OffsetImage, AnnotationBbox
