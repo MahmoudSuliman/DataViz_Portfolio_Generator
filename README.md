@@ -4,7 +4,7 @@ A simple python script to combine time-ordered figures into a 4x4 gridded matplo
 The only prerequisite to use this script would be to rename the input images in the 'items' directory
 from 1 to 16 based on prefered order.
 
-The following can be adjusted:
+The following can be adjusted: \n
     1. Color schemes
     2. DPI
     3. Image file format
